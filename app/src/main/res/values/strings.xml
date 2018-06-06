@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">AppTalma</string>
+    <string name="app_name">Bienvenido</string>
     <string name="btnIngresar">Ir</string>
+
+    <string name="name1">Name 1</string>
+    <string name="name2">Name 2</string>
 </resources>
